@@ -22,5 +22,6 @@ public class Array {
         // int[] num happen at runtime
         // new int[5] happen at compile time.
 
+
     }
 }
